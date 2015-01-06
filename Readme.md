@@ -5,6 +5,6 @@ This is a version of the well known app "Whatsapp" made on my university. Basica
 
 Note: You can login using this usernames: casillas, dcosta, cristiano, pepe and simeone. Please note that in ordr to add new users and all this stuff you need to create files following the structure of the current files.
 
-<a href="code/">See code ></a>
+<a href="/code/">See code ></a>
 
-<a href="codeDinamic/">See dinamic array's code ></a>
+<a href="/codeDinamic/">See dinamic array's code ></a>
