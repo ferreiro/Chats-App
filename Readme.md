@@ -17,7 +17,7 @@ Note: You can login using this usernames: casillas, dcosta, cristiano, pepe and 
 ![alt text](/assets/slide3.jpg)
 
 
-### Feadback
+### Feedback
 
 You can use my code under MIT license. If you have some ideas and feedback, please, open an issue or write me an email: dividirporcero@gmail.com. Would be awesome to hear your ideas ;).
 
